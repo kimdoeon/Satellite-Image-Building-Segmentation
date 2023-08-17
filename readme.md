@@ -8,8 +8,8 @@
   - 기간: 2023.7.3 ~ 2023.8.14
   - 방식: 팀프로젝트
   - Task: 의미론적 분할(Semantic Segmentation)
-
-> Presentation: [2023_dacon.pdf](./2023_dacon.pdf)
+- 결과: 최종순위 4위, 공동 3등
+  > Presentation: [2023_dacon.pdf](./2023_dacon.pdf)
 
 ## Team Member
 
