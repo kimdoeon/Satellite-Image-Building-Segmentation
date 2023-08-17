@@ -6,5 +6,3 @@ data_*
 data/train_img
 data/test_img
 open.zip
-*.csv
-*.png
