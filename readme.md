@@ -3,12 +3,13 @@
 # 2023 SW중심대학 공동 AI 경진대회
 
 - 과학기술정보통신부 주관 2023 SW 중심대학 공동 AI 경진대회로, [위성 이미지 건물 영역 분할] 주제에 대해 제공받은 위성 데이터를 기반으로 진행하였다.
+- 결과: 최종순위 4위, 공동 3등
+
 - 개요
   - 주제: 위성 이미지 건물 영역 분할(Satellite Image Building Area Segmentation)
   - 기간: 2023.7.3 ~ 2023.8.14
   - 방식: 팀프로젝트
   - Task: 의미론적 분할(Semantic Segmentation)
-- 결과: 최종순위 4위, 공동 3등
 
 > Presentation: [2023_dacon.pdf](./2023_dacon.pdf)
 
