@@ -9,9 +9,15 @@
 
 > Presentation: [2023_dacon.pdf](./2023_dacon.pdf)
 
-## Team(SSU ADED)
+## Team Member
 
-권승찬, 이정윤, 김도언, 임규일, 이민우
+|  Name  | Organization |
+| :----: | :----------: |
+| 권승찬 |    SSU AI    |
+| 이정윤 |    SSU AI    |
+| 김도언 |    SSU AI    |
+| 임규일 |    SSU AI    |
+| 이민우 |    SSU AI    |
 
 ## Environment
 
