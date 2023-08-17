@@ -1,7 +1,12 @@
-# 위성 이미지 건물 영역 분할 in Dacon
-https://dacon.io/competitions/official/236092/overview/description
+# SW중심대학 공동 AI 경진대회 2023
+* 과학기술정보통신부 주관 2023 SW 중심대학 공동 AI 경진대회로, [위성 이미지 건물 영역 분할] 주제에 대해 제공받은 위성 데이터를 기반으로 진행하였다.
+* 개요
+  * 주제: 위성 이미지 건물 영역 분할(Satellite Image Building Area Segmentation)
+  * 기간: 2023.7.3 ~ 2023.8.14
+  * 방식: 팀프로젝트
+  * Task: 의미론적 분할(Semantic Segmentation)
 
-
+> Presentation: []
 ## Environment
 * Ubuntu 22.04.2 LTS
 * CUDA Version: 12.0
@@ -58,3 +63,15 @@ python train_smp_one.py --config train_smp_512.yaml
 ## Inference
 config/predict_smp_512.yaml 수정  
 tta_smp_inference.ipynb 실행  
+
+## TEAM(SSU ADED)
+|Name|Contact|
+|------|---|
+|권승찬|kwonsc36@gmail.com|
+|이정윤|agurimon18@gmail.com|
+|김도언|doeon99@gmail.com|
+|임규일|swea76019059@gmail.com|
+|이민우|dlalsdn1009@naver.com|
+
+
+대회 링크 : https://dacon.io/competitions/official/236092/overview/description
