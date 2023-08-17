@@ -10,7 +10,7 @@
   - Task: 의미론적 분할(Semantic Segmentation)
 - 결과: 최종순위 4위, 공동 3등
 
-  > Presentation: [2023_dacon.pdf](./2023_dacon.pdf)
+> Presentation: [2023_dacon.pdf](./2023_dacon.pdf)
 
 ## Team Member
 
