@@ -1,0 +1,41 @@
+seed: 42
+
+# Model
+model:
+  name: segformer
+  weight: nvidia/mit-b0
+  n_classes: 1
+  in_channel: 3
+
+processor: nvidia/segformer-b4-finetuned-ade-512-512
+
+# Dataset
+data_dir: ./data/data_512_91
+
+# Data Loader
+input_size: 224
+num_workers: 8
+val_size: 0.1
+n_epochs: 400
+batch_size: 32
+ricap_size: 0
+
+loss:
+  name: BCEWithLogitsLoss
+  # name: DiceCELoss
+
+optimizer:
+  name: AdamW
+  args:
+    lr: 5.0e-05
+    # weight_decay: 2.0e-02
+
+scheduler:
+  name: CosineAnnealingLR
+  args:
+    T_max: 100
+    eta_min: 0
+
+amp: True
+
+step: 0

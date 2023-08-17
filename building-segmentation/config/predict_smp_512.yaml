@@ -1,0 +1,10 @@
+seed: 42
+
+# Model
+model:
+  architecture: UnetPlusPlus
+  encoder: timm-regnety_320
+  encoder_weight: imagenet
+  n_classes: 1
+  in_channel: 3
+  pretrained: ./results/train/20230728_001659/weights/last.pth
