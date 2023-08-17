@@ -82,4 +82,4 @@ python train_smp_one.py --config train_smp_512.yaml
 config/predict_smp_512.yaml 수정  
 tta_smp_inference.ipynb 실행
 
-대회 링크 : https://dacon.io/competitions/official/236092/overview/description
+대회 링크 : https://www.swuniv.kr/60/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14766385&t=board
