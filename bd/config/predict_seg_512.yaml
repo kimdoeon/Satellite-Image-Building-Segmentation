@@ -1,9 +1,0 @@
-seed: 42
-
-# Model
-model:
-  name: segformer
-  weight: nvidia/mit-b0
-  pretrained: ./results/train/20230717_135532/weights/best.pth
-
-processor: nvidia/segformer-b4-finetuned-ade-512-512
