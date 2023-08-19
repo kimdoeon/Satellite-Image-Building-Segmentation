@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](./figure/logo.png)
 
 # 2023 SW중심대학 공동 AI 경진대회
 
@@ -11,7 +11,7 @@
   - 방식: 팀프로젝트
   - Task: 의미론적 분할(Semantic Segmentation)
 
-> Presentation: [2023_dacon.pdf](./2023_dacon.pdf)
+> Presentation: [2023_dacon.pdf](./figure/2023_dacon.pdf)
 
 ## Team Member
 
